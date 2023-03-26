@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" height = "250px" src="https://github.com/AltanBaysal/AltanBaysal/blob/main/1669653830214.jpg" alt="cover" />
+</div>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
+<p align='center'>
+
+
+
 
 <!--
 **AltanBaysal/AltanBaysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
